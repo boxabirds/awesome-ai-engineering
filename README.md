@@ -62,6 +62,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Banana.dev (defunct)
 - pipeline.ai 
 - [hyperstack.cloud](https://www.hyperstack.cloud/)
+- [Alibaba Elastic GPU service](https://www.alibabacloud.com/en/product/heterogeneous_computing?_p_lc=1)
 
 ### Structured LLM APIs
 - DSPy
