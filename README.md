@@ -58,7 +58,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - BoltAI
 - Fireworks.ai
 - Inferless.com
-- Banana.dev
+- Banana.dev (defunct)
 - pipeline.ai 
 - [hyperstack.cloud](https://www.hyperstack.cloud/)
 
