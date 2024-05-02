@@ -41,7 +41,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Lambda Labs
 - Beam.cloud
 - Runpod
-- Cloudflare
+- [Cloudflare Workers AI](https://blog.cloudflare.com/workers-ai)
 - Coreweave
 - Mosaicml
 - mixedbread.ai
@@ -58,6 +58,9 @@ This section covers useful stuff you can use to become a better AI engineer.
 - BoltAI
 - Fireworks.ai
 - Inferless.com
+- Banana.dev
+- pipeline.ai 
+- [hyperstack.cloud](https://www.hyperstack.cloud/)
 
 ### Structured LLM APIs
 - DSPy
