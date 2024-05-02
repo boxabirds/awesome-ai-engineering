@@ -29,32 +29,32 @@ This section covers useful stuff you can use to become a better AI engineer.
 - groq.com
 
 ### LLM APIs and Inference Services
-- ollama
-- lmstudio
-- msty.app
-- Nitro.jan.ai
-- modal.com
-- Predibase
-- brev.dev
-- Replicate.com
-- Together.ai
-- Lambda Labs
-- Beam.cloud
+- ollama: OS LLM inference service
+- lmstudio.ai: local fine tuning UI
+- msty.app: local OS LLM inference
+- Nitro.jan.ai: OS LLM inference
+- modal.com: on demand Serverless container +GPU execution runtime
+- Predibase: LLM fine-tuning and hosting
+- brev.dev: 
+- Replicate.com: models-as-a service
+- Together.ai: Serverless LLM / multimodal inference
+- Lambda Labs: Manual rental of GPUs / clusters
+- Beam.cloud: Serverless generative AI fast standup
 - Runpod
 - [Cloudflare Workers AI](https://blog.cloudflare.com/workers-ai)
-- Coreweave
-- Mosaicml
-- mixedbread.ai
-- lamini.ai
-- Anyscale
+- Coreweave: autoscale GPU + Serverless (knative)
+- Mosaicml: (acquired by Databricks)
+- mixedbread.ai: retrieval as a service (search, reranking, embedding)
+- lamini.ai: LLM inference
+- Anyscale + rai.ai scaling
 - HF inference API
 - massedcompute.com
 - Salad.com
 - Openpipe.ai
 - Unsloth.ai
-- Vast.ai
+- Vast.ai: GPU rental market
 - Akash
-- Groq
+- Groq: ultra fast LLM for selected models
 - BoltAI
 - [Saturn Cloud](https://saturncloud.io/)
 - Fireworks.ai
