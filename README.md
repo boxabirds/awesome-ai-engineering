@@ -63,6 +63,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - pipeline.ai 
 - [hyperstack.cloud](https://www.hyperstack.cloud/)
 - [Alibaba Elastic GPU service](https://www.alibabacloud.com/en/product/heterogeneous_computing?_p_lc=1)
+- [Cloudalize GPU Kubenetes Service](https://www.cloudalize.com/solutions/kubernetes-gpu-cloud/)
 
 ### Structured LLM APIs
 - DSPy
