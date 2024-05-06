@@ -65,6 +65,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - [Alibaba Elastic GPU service](https://www.alibabacloud.com/en/product/heterogeneous_computing?_p_lc=1)
 - [Cloudalize GPU Kubenetes Service](https://www.cloudalize.com/solutions/kubernetes-gpu-cloud/)
 - [Tensordock.com](https://tensordock.com/benchmarks) 
+- [Fly GPU](https://fly.io/gpu) GPUs on demand
 
 ### Structured LLM APIs
 - DSPy
