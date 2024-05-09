@@ -183,6 +183,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - SWE-agent
 
 ### Chat with Your Data/RAG
+- Weaviate [Verba](https://github.com/weaviate/Verba): RAG solution using Weaviate
 - Microsoft GitHub
 - AWS Bedrock embeddings, streamlit, langchain, pinecone, claude, etc.
 - AWS Serverless
