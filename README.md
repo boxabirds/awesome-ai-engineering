@@ -67,8 +67,9 @@ This section covers useful stuff you can use to become a better AI engineer.
 - [Tensordock.com](https://tensordock.com/benchmarks) 
 - [Fly GPU](https://fly.io/gpu) GPUs on demand
 
-### Structured LLM APIs
+### Structured prompts 
 - DSPy
+- [Microsoft llmlingua prompt compression](https://github.com/microsoft/LLMLingua)
 - SGLang
 - outlines
 - Instructor
@@ -184,8 +185,8 @@ This section covers useful stuff you can use to become a better AI engineer.
 ### Chat with Your Data/RAG
 - Microsoft GitHub
 - AWS Bedrock embeddings, streamlit, langchain, pinecone, claude, etc.
-- AWS Serverless version
-- GCP version
+- AWS Serverless
+- GCP 
 - Gemini for document processing
 - AWS knowledge bases for bedrock
 
@@ -213,7 +214,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Punica
 
 ### GPU Usage Optimization
-- Run.ai
+- Run.ai -- service for bare metal GPU cluster management now owned by Nvidia
 
 ### Important Datasets
 - sst2 sentiment movie sentiment (HF)
