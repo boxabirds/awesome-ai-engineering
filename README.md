@@ -105,6 +105,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Attention Beacons
 - RWKV
 - Denseformer
+- [InfiniAttention](https://github.com/kyegomez/Infini-attention): a pathway to ultra long context windows with manageable memory consumption
 
 ### Fine-Tuning and Optimization
 - Lazy Axolotl
