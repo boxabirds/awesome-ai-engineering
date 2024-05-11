@@ -251,6 +251,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Argilla Distilabel
 - Spacy Prodigy
 - Snorkel
+- [Refuel-AI autolabel](https://github.com/refuel-ai/autolabel)
 
 ### Model Configuration Management
 - DVCorg
