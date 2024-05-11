@@ -105,7 +105,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Attention Beacons
 - RWKV
 - Denseformer
-- [InfiniAttention](https://github.com/kyegomez/Infini-attention): a pathway to ultra long context windows with manageable memory consumption
+
 
 ### Fine-Tuning and Optimization
 - Lazy Axolotl
@@ -124,6 +124,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Ailibi
 - LongRoPE
 - Unsloth+RoPE
+- [InfiniAttention](https://github.com/kyegomez/Infini-attention): a pathway to ultra long context windows with manageable memory consumption
 
 ## Infrastructure and Tools
 ### Vector Stores
@@ -134,7 +135,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - postgresql + pgvector (open source)
 - sqlite + vss (open source)
 - faiss by meta
-- Vespa.ai binary embeddings
+- Vespa.ai + binary embeddings
 
 ### Cloud Hosting
 - Blueocean / paperspace for GPU
@@ -182,6 +183,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Autogen
 - OpenDevin
 - SWE-agent
+- [Leda](https://github.com/elder-plinius/Leda)
 
 ### Chat with Your Data/RAG
 - Weaviate [Verba](https://github.com/weaviate/Verba): RAG solution using Weaviate
