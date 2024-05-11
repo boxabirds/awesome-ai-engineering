@@ -185,6 +185,9 @@ This section covers useful stuff you can use to become a better AI engineer.
 - SWE-agent
 - [Leda](https://github.com/elder-plinius/Leda)
 
+#### Agent analytics
+- [Agent Ops](https://github.com/AgentOps-AI/agentops)
+
 ### Chat with Your Data/RAG
 - Weaviate [Verba](https://github.com/weaviate/Verba): RAG solution using Weaviate
 - Microsoft GitHub
