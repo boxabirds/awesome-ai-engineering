@@ -105,7 +105,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Attention Beacons
 - RWKV
 - Denseformer
-
+- [Microsoft SliceGPT](https://github.com/microsoft/TransformerCompression) remove up to 25% of layers
 
 ### Fine-Tuning and Optimization
 - Lazy Axolotl
