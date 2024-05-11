@@ -195,9 +195,14 @@ This section covers useful stuff you can use to become a better AI engineer.
 - AWS knowledge bases for bedrock
 
 ### Guardrails and Safety
+
+#### Protection
 - Llamaguard
 - Llamaguard with streaming
 - Guardrails for AWS Bedrock
+
+#### Jailbreaks
+- [Pliny the Prompter jailbreaks](https://github.com/elder-plinius/L1B3RT45)
 
 ### Embeddings and Document Processing
 #### Embeddings Services
