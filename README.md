@@ -202,6 +202,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - GCP 
 - Gemini for document processing
 - AWS knowledge bases for bedrock
+- [FLARE](https://github.com/jzbjyb/FLARE) dynamically replace low-probability tokens with RAG lookups
 
 ### Guardrails and Safety
 
