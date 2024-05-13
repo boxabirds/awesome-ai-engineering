@@ -191,6 +191,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - SWE-agent
 - [Leda](https://github.com/elder-plinius/Leda)
 - [Devon](https://github.com/entropy-research/Devon) open source pair programmer
+- [HuggingFace Agents](https://huggingface.co/docs/transformers/main/en/agents)
 
 #### Agent analytics
 - [Agent Ops](https://github.com/AgentOps-AI/agentops)
