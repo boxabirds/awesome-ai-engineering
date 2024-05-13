@@ -29,10 +29,15 @@ This section covers useful stuff you can use to become a better AI engineer.
 - groq.com
 
 ### LLM APIs and Inference Services
-- ollama: OS LLM inference service
-- lmstudio.ai: local fine tuning UI
-- msty.app: local OS LLM inference
-- Nitro.jan.ai: OS LLM inference
+
+#### self-hosted Open weight inference 
+- ollama (go/open source)
+- [LocalAI](https://github.com/mudler/LocalAI) (go/open source)
+- msty.app
+- Nitro.jan.ai
+
+#### SaaS
+
 - modal.com: on demand Serverless container +GPU execution runtime
 - Predibase: LLM fine-tuning and hosting
 - brev.dev: 
@@ -117,6 +122,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - LISA
 - Torchtune
 - LASER layer reduction
+- lmstudio.ai
 
 ### Task-Optimized LLMs and Context Extension
 - Predibase LORALand
