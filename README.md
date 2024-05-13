@@ -190,6 +190,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - OpenDevin
 - SWE-agent
 - [Leda](https://github.com/elder-plinius/Leda)
+- [Devon](https://github.com/entropy-research/Devon) open source pair programmer
 
 #### Agent analytics
 - [Agent Ops](https://github.com/AgentOps-AI/agentops)
