@@ -113,6 +113,9 @@ This section covers useful stuff you can use to become a better AI engineer.
 - Denseformer
 - [Microsoft SliceGPT](https://github.com/microsoft/TransformerCompression) remove up to 25% of layers
 
+#### Tokenizers
+- [ZETT](https://github.com/bminixhofer/zett)
+
 ### Fine-Tuning and Optimization
 - Lazy Axolotl
 - Lit-GPT
@@ -181,6 +184,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - torch.autograd
 - Autograd
 - tf.GradientTape
+- gomlx
 
 ### Prompt Debugging
 - mitmproxy (via Show Me The Prompt)
@@ -230,7 +234,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 
 #### Embeddings Algorithms
 - Colbert
-- Binary quantization
+- Binary quantization (BitNet)
 
 ### Multi-Adapter Models
 - Punica
@@ -256,8 +260,6 @@ This section covers useful stuff you can use to become a better AI engineer.
 
 ### ML Local Mini Clusters
 - Tinybox / tinygrad
-
-### Custom Rigs
 - WOPR (7 x 4090)
 
 ### Data Labeling
