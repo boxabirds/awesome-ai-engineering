@@ -71,6 +71,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - [Cloudalize GPU Kubenetes Service](https://www.cloudalize.com/solutions/kubernetes-gpu-cloud/)
 - [Tensordock.com](https://tensordock.com/benchmarks) 
 - [Fly GPU](https://fly.io/gpu) GPUs on demand
+-  [Jarvis Labs](https://jarvislabs.ai/) GPUs on demand
 
 ### Structured prompts 
 - DSPy
