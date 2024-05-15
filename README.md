@@ -119,6 +119,7 @@ Try out open source models instantly.
 - RWKV
 - Denseformer
 - [Microsoft SliceGPT](https://github.com/microsoft/TransformerCompression) remove up to 25% of layers
+- [DCFormer](https://github.com/Caiyun-AI/DCFormer)
 
 #### Tokenizers
 - [ZETT](https://github.com/bminixhofer/zett)
