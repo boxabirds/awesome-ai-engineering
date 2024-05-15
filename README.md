@@ -30,6 +30,13 @@ This section covers useful stuff you can use to become a better AI engineer.
 
 ### LLM APIs and Inference Services
 
+
+#### free open weight playgrounds 
+Try out open source models instantly. 
+- [Perplexity Labs](https://labs.perplexity.ai) side by side comparison
+- [Groq chat](https://chat.groq.com) demo a subset of models on Groq's proprietary inference hardware (LPUs)
+- [Vercel AI Playground](https://sdk.vercel.ai/)
+
 #### self-hosted Open weight inference 
 - ollama (go/open source)
 - [LocalAI](https://github.com/mudler/LocalAI) (go/open source)
