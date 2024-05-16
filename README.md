@@ -105,6 +105,9 @@ Try out open source models instantly.
 - Ruler (long context evaluation)
 - OpenAI Simple Evals
 
+#### Observability
+- [Phoenix](https://github.com/Arize-ai/phoenix)
+
 ### Human Input Methods
 - RLHF
 - DPO
@@ -122,7 +125,7 @@ Try out open source models instantly.
 - [DCFormer](https://github.com/Caiyun-AI/DCFormer)
 
 #### Tokenizers
-- [ZETT](https://github.com/bminixhofer/zett)
+- [ZeTT](https://github.com/bminixhofer/zett)
 
 ### Fine-Tuning and Optimization
 - Lazy Axolotl
@@ -245,6 +248,7 @@ Try out open source models instantly.
 - Binary quantization (BitNet)
 
 ### Multi-Adapter Models
+For hosting multiple fine-tunes at once
 - Punica
 
 ### GPU Usage Optimization
