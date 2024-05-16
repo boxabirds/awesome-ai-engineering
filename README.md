@@ -221,6 +221,7 @@ Try out open source models instantly.
 - Gemini for document processing
 - AWS knowledge bases for bedrock
 - [FLARE](https://github.com/jzbjyb/FLARE) dynamically replace low-probability tokens with RAG lookups
+- [Embedchain](https://github.com/embedchain/embedchain)
 
 ### Guardrails and Safety
 
