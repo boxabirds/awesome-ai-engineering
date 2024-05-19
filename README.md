@@ -42,6 +42,7 @@ Try out open source models instantly.
 - [LocalAI](https://github.com/mudler/LocalAI) (go/open source)
 - msty.app
 - Nitro.jan.ai
+- [Paddler](https://github.com/distantmagic/paddler) scaling / load balancing of llama.cpp inference
 
 #### SaaS
 
