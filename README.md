@@ -30,6 +30,9 @@ This section covers useful stuff you can use to become a better AI engineer.
 
 ### LLM APIs and Inference Services
 
+#### GPU Marketplaces
+- [GPUList.ai](https://gpulist.ai/)
+- [Vast.ai](https://vast.ai)
 
 #### free open weight playgrounds 
 Try out open source models instantly. 
@@ -66,7 +69,6 @@ Try out open source models instantly.
 - Openpipe.ai
 - Unsloth.ai
 - Crusoe.ai GPU rental
-- Vast.ai: GPU rental market
 - Akash
 - Groq: ultra fast LLM for selected models
 - BoltAI
