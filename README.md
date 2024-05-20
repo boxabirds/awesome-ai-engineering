@@ -65,6 +65,7 @@ Try out open source models instantly.
 - Salad.com
 - Openpipe.ai
 - Unsloth.ai
+- Crusoe.ai GPU rental
 - Vast.ai: GPU rental market
 - Akash
 - Groq: ultra fast LLM for selected models
