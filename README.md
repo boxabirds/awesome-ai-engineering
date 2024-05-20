@@ -136,7 +136,6 @@ Try out open source models instantly.
 - Lit-GPT
 - Predibase
 - Fine Tune Llama 2 Colab (by HF)
-- Novelcrafter fine tune
 - Openpipe.ai
 - LISA
 - Torchtune
