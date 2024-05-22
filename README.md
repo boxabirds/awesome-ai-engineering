@@ -212,8 +212,10 @@ Try out open source models instantly.
 - [Devon](https://github.com/entropy-research/Devon) open source pair programmer
 - [HuggingFace Agents](https://huggingface.co/docs/transformers/main/en/agents)
 
-#### Agent analytics
+### Analytics
 - [Agent Ops](https://github.com/AgentOps-AI/agentops)
+- [Weights and Biases](https://wandb.com)
+- [Okareo](https://okareo.com/)
 
 ### Chat with Your Data/RAG
 - Weaviate [Verba](https://github.com/weaviate/Verba): RAG solution using Weaviate
