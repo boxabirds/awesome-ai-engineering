@@ -208,7 +208,7 @@ Try out open source models instantly.
 - CrewAI
 - Autogen
 - OpenDevin
-- SWE-agent
+- [SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 - [Leda](https://github.com/elder-plinius/Leda)
 - [Devon](https://github.com/entropy-research/Devon) open source pair programmer
 - [HuggingFace Agents](https://huggingface.co/docs/transformers/main/en/agents)
