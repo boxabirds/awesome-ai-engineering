@@ -118,6 +118,8 @@ Try out open source models instantly.
 - DPO
 - TKO
 - LIPO
+- DORA
+- SPO
 
 ### Architecture Innovations
 - Longformer
@@ -152,7 +154,7 @@ Try out open source models instantly.
 - [InfiniAttention](https://github.com/kyegomez/Infini-attention): a pathway to ultra long context windows with manageable memory consumption
 
 ## Infrastructure and Tools
-### Vector Stores
+### Vector Stores / Information Retrieval
 - pinecone
 - weaviate
 - chroma (open source)
@@ -162,6 +164,8 @@ Try out open source models instantly.
 - faiss by meta
 - Vespa.ai + binary embeddings
 
+####
+- [IR measures](https://github.com/terrierteam/ir_measures)
 ### Cloud Hosting
 - Blueocean / paperspace for GPU
 - AWS
