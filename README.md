@@ -84,16 +84,17 @@ Try out open source models instantly.
 - [Fly GPU](https://fly.io/gpu) GPUs on demand
 -  [Jarvis Labs](https://jarvislabs.ai/) GPUs on demand
 
-### Structured prompts 
-- DSPy
-- [Microsoft llmlingua prompt compression](https://github.com/microsoft/LLMLingua)
+### Structured output
 - SGLang
 - outlines
 - Instructor
 - Marginalia
-- natural-functions
-- Qwen 0.5B
-- Phidata
+
+### Prompt engineering
+- [ATLAS](https://github.com/VILA-Lab/ATLAS)
+- DSPy
+- [Microsoft llmlingua prompt compression](https://github.com/microsoft/LLMLingua)
+
 
 ## LLM Development and Optimization
 ### LLM Testing and Evaluation
