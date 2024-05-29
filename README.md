@@ -7,6 +7,8 @@ List of resources helping you become a better AI engineer.
 * [Coursera's definition](https://www.coursera.org/articles/ai-engineer) "Artificial intelligence engineers are individuals who use AI and machine learning techniques to develop applications and systems that can help organizations increase efficiency, cut costs, increase profits, and make better business decisions."
 * [Tech Target](https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer) "AI engineers develop, program and train the complex networks of algorithms that encompass AI so those algorithms can work like a human brain. AI engineers must be experts in software development, data science, data engineering and programming."
 * [Swyx podcast](https://pca.st/episode/ada36079-7bfa-4f06-9020-cdf37e65e34f?t=498.0) (17 April 2024)
+* [Scaler Blogs](https://www.scaler.com/blog/how-to-become-an-ai-engineer/) "AI engineers design, develop, and deploy intelligent systems using machine learning, deep learning, and NLP to solve complex problems and enable autonomous decision-making."
+
 # What's the difference between an AI Engineer and a Machine Learning Engineer?
 
 * [UpWork](https://www.upwork.com/resources/ai-engineer-vs-ml-engineer#:~:text=AI%20engineers%20work%20on%20a,predictions%20from%20large%20data%20sets.) "AI engineers work on a broader set of tasks that encompass various forms of machine intelligence, like neural networks, to develop AI models for specific applications. In contrast, ML engineers focus more on ML algorithms and models that can self-tune to better learn and make predictions from large data sets."
