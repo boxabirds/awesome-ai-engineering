@@ -104,13 +104,18 @@ Try out open source models instantly.
 - Ollama grid search
 - Uptrain
 - Google Cloud GCP AutoSxS
-- Lmsys.org
 - Paloma
 - LightEval
 - Bayesian Evaluation
 - Mozilla's experience
 - Ruler (long context evaluation)
 - OpenAI Simple Evals
+
+#### Leaderboards
+- [SEAL](https://scale.com/leaderboard)
+- Lmsys.org
+- [HuggingFace Open LLM leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix)
@@ -166,8 +171,9 @@ Try out open source models instantly.
 - faiss by meta
 - Vespa.ai + binary embeddings
 
-####
+#### Telemetry
 - [IR measures](https://github.com/terrierteam/ir_measures)
+
 ### Cloud Hosting
 - Blueocean / paperspace for GPU
 - AWS
