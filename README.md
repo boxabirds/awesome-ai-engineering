@@ -110,6 +110,7 @@ Try out open source models instantly.
 - Mozilla's experience
 - Ruler (long context evaluation)
 - OpenAI Simple Evals
+- [Moonshot](https://github.com/aiverify-foundation/moonshot)
 
 #### Leaderboards
 - [SEAL](https://scale.com/leaderboard)
