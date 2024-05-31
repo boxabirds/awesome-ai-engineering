@@ -152,6 +152,7 @@ Try out open source models instantly.
 - Torchtune
 - LASER layer reduction
 - lmstudio.ai
+- [AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing)
 
 ### Task-Optimized LLMs and Context Extension
 - Predibase LORALand
