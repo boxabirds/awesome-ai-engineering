@@ -119,7 +119,8 @@ Try out open source models instantly.
 
 
 #### Observability
-- [Phoenix](https://github.com/Arize-ai/phoenix)
+- [Phoenix](https://github.com/Arize-ai/phoenix) 
+- [Helicone](https://www.helicone.ai/) 
 
 ### Human Input Methods
 - RLHF
