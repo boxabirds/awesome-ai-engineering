@@ -154,7 +154,7 @@ Try out open source models instantly.
 - LASER layer reduction
 - lmstudio.ai
 - [AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing)
-- [Mistral fine tuning](https://mistral.ai/news/customization/)
+- [Mistral fine tuning service](https://mistral.ai/news/customization/) (Github)[https://github.com/mistralai/mistral-finetune]
 
 ### Task-Optimized LLMs and Context Extension
 - Predibase LORALand
