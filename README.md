@@ -112,11 +112,13 @@ Try out open source models instantly.
 - OpenAI Simple Evals
 - [Moonshot](https://github.com/aiverify-foundation/moonshot)
 
+
+
 #### Leaderboards
 - [SEAL](https://scale.com/leaderboard)
 - Lmsys.org
 - [HuggingFace Open LLM leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
-
+- [Vectara Hallucination Leaderboard](https://huggingface.co/spaces/vectara/leaderboard) 
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
