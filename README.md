@@ -119,6 +119,7 @@ Try out open source models instantly.
 - Lmsys.org
 - [HuggingFace Open LLM leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 - [Vectara Hallucination Leaderboard](https://huggingface.co/spaces/vectara/leaderboard) 
+- [Text Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
