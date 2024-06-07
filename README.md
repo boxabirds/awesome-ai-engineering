@@ -120,6 +120,7 @@ Try out open source models instantly.
 - [HuggingFace Open LLM leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 - [Vectara Hallucination Leaderboard](https://huggingface.co/spaces/vectara/leaderboard) 
 - [Text Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [Enterprise Use Case Leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) Finance, Legal, Customer Support
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
