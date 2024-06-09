@@ -86,6 +86,7 @@ Try out open source models instantly.
 - [Fly GPU](https://fly.io/gpu) GPUs on demand
 -  [Jarvis Labs](https://jarvislabs.ai/) GPUs on demand
 - [BentoML](https://bentoml.com/) open source open weight inference with cloud option
+- [bitbop GPU dev the cloud](https://bitbop.io/)
 
 ### Structured output
 - SGLang
