@@ -125,6 +125,7 @@ Try out open source models instantly.
 - [Enterprise Use Case Leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) Finance, Legal, Customer Support
 - [MixEval](https://mixeval.github.io/)
 - [Arena Hard Auto](https://github.com/lm-sys/arena-hard-auto)
+- [Google Instruction Following Eval / IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval) 
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
