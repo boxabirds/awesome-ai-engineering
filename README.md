@@ -124,6 +124,7 @@ Try out open source models instantly.
 - [Text Embedding Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [Enterprise Use Case Leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) Finance, Legal, Customer Support
 - [MixEval](https://mixeval.github.io/)
+- [Arena Hard Auto](https://github.com/lm-sys/arena-hard-auto)
 
 #### Observability
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
