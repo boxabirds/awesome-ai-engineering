@@ -267,6 +267,7 @@ Try out open source models instantly.
 #### Jailbreaks
 - [Pliny the Prompter jailbreaks](https://github.com/elder-plinius/L1B3RT45)
 - [Jailbreak LLMs](https://github.com/verazuo/jailbreak_llms)
+- Haize
 
 ### Embeddings and Document Processing
 #### Embeddings Services
