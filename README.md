@@ -51,6 +51,7 @@ Try out open source models instantly.
 
 #### SaaS
 
+- [lepton.ai](https://www.lepton.ai/)
 - modal.com: on demand Serverless container +GPU execution runtime
 - Predibase: LLM fine-tuning and hosting
 - brev.dev: 
