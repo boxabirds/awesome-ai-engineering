@@ -50,7 +50,7 @@ Try out open source models instantly.
 - [Paddler](https://github.com/distantmagic/paddler) scaling / load balancing of llama.cpp inference
 
 #### SaaS
-
+- [fal.ai](https://fal.ai)
 - [lepton.ai](https://www.lepton.ai/)
 - modal.com: on demand Serverless container +GPU execution runtime
 - Predibase: LLM fine-tuning and hosting
