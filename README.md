@@ -35,6 +35,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 #### GPU Marketplaces
 - [GPUList.ai](https://gpulist.ai/)
 - [Vast.ai](https://vast.ai)
+-[Prime Intellect](https://www.primeintellect.ai/)
 
 #### free open weight playgrounds 
 Try out open source models instantly. 
