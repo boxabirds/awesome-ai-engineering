@@ -37,6 +37,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 - [Vast.ai](https://vast.ai)
 -[Prime Intellect](https://www.primeintellect.ai/)
 
+
 #### free open weight playgrounds 
 Try out open source models instantly. 
 - [Perplexity Labs](https://labs.perplexity.ai) side by side comparison
@@ -89,6 +90,7 @@ Try out open source models instantly.
 -  [Jarvis Labs](https://jarvislabs.ai/) GPUs on demand
 - [BentoML](https://bentoml.com/) open source open weight inference with cloud option
 - [bitbop GPU dev the cloud](https://bitbop.io/)
+- [Simplepid.ai](SimplePod)
 
 ### Structured output
 - SGLang
