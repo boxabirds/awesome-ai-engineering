@@ -56,7 +56,7 @@ Try out open source models instantly.
 - [lepton.ai](https://www.lepton.ai/)
 - modal.com: on demand Serverless container +GPU execution runtime
 - Predibase: LLM fine-tuning and hosting
-- brev.dev: 
+- [https://hpc-ai.com/](HPC AI): GPU rental
 - Replicate.com: models-as-a service
 - Together.ai: Serverless LLM / multimodal inference
 - Lambda Labs: Manual rental of GPUs / clusters
