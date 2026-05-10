@@ -132,6 +132,7 @@ Try out open source models instantly.
 - [Google Instruction Following Eval / IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval) 
 
 #### Observability
+- [agenttrace](https://github.com/luoyuctl/agenttrace) local-first TUI and CLI for inspecting AI coding agent logs, token usage, cost, latency, and session health
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
 - [Helicone](https://www.helicone.ai/) 
 
