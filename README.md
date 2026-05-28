@@ -55,6 +55,7 @@ Try out open source models instantly.
 - [fal.ai](https://fal.ai)
 - [lepton.ai](https://www.lepton.ai/)
 - modal.com: on demand Serverless container +GPU execution runtime
+- [agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk): OpenAI-compatible gateway SDK for routing AI agent requests across providers
 - Predibase: LLM fine-tuning and hosting
 - [https://hpc-ai.com/](HPC AI): GPU rental
 - Replicate.com: models-as-a service
@@ -117,6 +118,7 @@ Try out open source models instantly.
 - Ruler (long context evaluation)
 - OpenAI Simple Evals
 - [Moonshot](https://github.com/aiverify-foundation/moonshot)
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation)
 
 
 
@@ -250,6 +252,8 @@ Try out open source models instantly.
 - [Agent Ops](https://github.com/AgentOps-AI/agentops)
 - [Weights and Biases](https://wandb.com)
 - [Okareo](https://okareo.com/)
+- [traceAI](https://github.com/future-agi/traceAI)
+- [Future AGI](https://github.com/future-agi/future-agi): self-hostable end-to-end agent engineering platform with tracing, evals, guardrails, and gateway
 
 ### Chat with Your Data/RAG
 - Weaviate [Verba](https://github.com/weaviate/Verba): RAG solution using Weaviate
