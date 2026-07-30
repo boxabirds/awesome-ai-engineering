@@ -56,6 +56,7 @@ Try out open source models instantly.
 - [lepton.ai](https://www.lepton.ai/)
 - modal.com: on demand Serverless container +GPU execution runtime
 - [agent-command-center-sdk](https://github.com/future-agi/agent-command-center-sdk): OpenAI-compatible gateway SDK for routing AI agent requests across providers
+- [Swobu](https://github.com/swobuforge/swobu): self-hosted local AI gateway (single Go binary, open source, AGPL-3.0) that terminates OpenAI/Anthropic Messages/remote-MCP client traffic and routes across providers, regions, accounts, and local models with failover
 - Predibase: LLM fine-tuning and hosting
 - [https://hpc-ai.com/](HPC AI): GPU rental
 - Replicate.com: models-as-a service
