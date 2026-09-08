@@ -119,6 +119,7 @@ Try out open source models instantly.
 - OpenAI Simple Evals
 - [Moonshot](https://github.com/aiverify-foundation/moonshot)
 - [ai-evaluation](https://github.com/future-agi/ai-evaluation)
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)
 
 
 
