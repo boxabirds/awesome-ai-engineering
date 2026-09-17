@@ -135,6 +135,7 @@ Try out open source models instantly.
 
 #### Observability
 - [agenttrace](https://github.com/luoyuctl/agenttrace) local-first TUI and CLI for inspecting AI coding agent logs, token usage, cost, latency, and session health
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) the step past inspecting a session: re-executing it. Records an agent's provider traffic byte-for-byte to a local trace, then replays that run offline so a failure reproduces on demand, two runs can be diffed, or the recording can be forked onto another model, all without contacting the provider; also queryable as an MCP server over the trace store
 - [Phoenix](https://github.com/Arize-ai/phoenix) 
 - [Helicone](https://www.helicone.ai/) 
 
