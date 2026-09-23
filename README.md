@@ -35,6 +35,7 @@ This section covers useful stuff you can use to become a better AI engineer.
 #### GPU Marketplaces
 - [GPUList.ai](https://gpulist.ai/)
 - [Vast.ai](https://vast.ai)
+- [Lium](https://lium.io/?utm_source=awesome-ai-engineering&utm_medium=listing)
 -[Prime Intellect](https://www.primeintellect.ai/)
 
 
