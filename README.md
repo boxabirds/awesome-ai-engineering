@@ -62,6 +62,7 @@ Try out open source models instantly.
 - Together.ai: Serverless LLM / multimodal inference
 - Lambda Labs: Manual rental of GPUs / clusters
 - Beam.cloud: Serverless generative AI fast standup
+- [Apidly Cloud](https://apidly.com): managed GPU servers and serverless GPU endpoints, billed per second
 - Runpod
 - [Cloudflare Workers AI](https://blog.cloudflare.com/workers-ai)
 - Coreweave: autoscale GPU + Serverless (knative)
